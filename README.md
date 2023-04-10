@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [Dependencies](#Dependencies)
-* [Data Extraction](#Data Extraction)
+* [Data Extraction](#Data Extraction "goto Data Extraction")
 * [Feature Engineering](#Feature Engineering)
 * [Model Design](#Model Design)
 
