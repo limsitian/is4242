@@ -4,10 +4,10 @@
 
 
 ## Table of Contents
-* Dependencies
-* Data Extraction
-* Feature Engineering
-* Model Design
+* [Dependencies] (#Dependencies)
+* [Data Extraction] (#Data Extraction)
+* [Feature Engineering] (#Feature Engineering)
+* [Model Design] (#Model Design)
 
 
 # Dependencies
